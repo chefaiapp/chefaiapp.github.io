@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Disposable Camera App</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #222;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .date {
+            color: #777;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="date">Last Updated: June 2023</p>
+
+    <p>Welcome to Disposable Camera App. Please read these Terms of Service ("Terms") carefully before using our application.</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using our application, you agree to be bound by these Terms. If you disagree with any part of these terms, you may not access the service.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Disposable Camera App provides a mobile application that simulates the experience of using a disposable camera, including filters and image processing capabilities.</p>
+
+    <h2>3. User Accounts and Subscriptions</h2>
+    <p>3.1. Some features of our app require a paid subscription. Pricing details are displayed before purchase.</p>
+    <p>3.2. Subscriptions are automatically renewed unless canceled at least 24 hours before the end of the current period.</p>
+    <p>3.3. You may manage your subscription and turn off auto-renewal through your App Store account settings.</p>
+    
+    <h2>4. Free Trial</h2>
+    <p>4.1. Free trials are offered for a limited period as advertised in the app.</p>
+    <p>4.2. After the trial period ends, your account will be automatically charged unless you cancel before the trial period ends.</p>
+
+    <h2>5. User Content</h2>
+    <p>5.1. You retain all rights to photos you create using our app.</p>
+    <p>5.2. You are solely responsible for the photos you create, save, and share.</p>
+
+    <h2>6. Privacy</h2>
+    <p>Our Privacy Policy describes how we handle the information you provide to us when you use our app. You agree that by using our service, you consent to the collection and use of information as set forth in our Privacy Policy.</p>
+
+    <h2>7. Limitation of Liability</h2>
+    <p>In no event shall Disposable Camera App, its officers, directors, employees, or agents, be liable to you for any direct, indirect, incidental, special, punitive, or consequential damages whatsoever resulting from any:</p>
+    <p>(i) errors, mistakes, or inaccuracies in the service;</p>
+    <p>(ii) personal injury or property damage related to your use of the service;</p>
+    <p>(iii) unauthorized access to or use of our servers and/or any personal information stored therein;</p>
+    <p>(iv) interruption or cessation of transmission to or from our service;</p>
+    <p>(v) bugs, viruses, trojan horses, or the like, which may be transmitted to or through our service by any third party.</p>
+
+    <h2>8. Changes to Terms</h2>
+    <p>We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect.</p>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions about these Terms, please contact us at support@disposablecameraapp.com</p>
+</body>
+</html>
